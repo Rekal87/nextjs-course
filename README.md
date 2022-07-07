@@ -5,4 +5,3 @@
 ## Static & Dynamic Routes
 
 ## Navigating Between Pages
-
